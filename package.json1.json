@@ -1,0 +1,14 @@
+{
+  "name": "birzumda",
+  "version": "1.0.0",
+  "description": "Bir Zumda — universitet oshxonasi uchun navbatsiz buyurtma tizimi (talaba ilovasi, oshxona ekrani, admin panel)",
+  "main": "server.js",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node --no-warnings server.js"
+  },
+  "license": "UNLICENSED"
+}
